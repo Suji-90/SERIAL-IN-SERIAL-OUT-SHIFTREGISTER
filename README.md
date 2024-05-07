@@ -59,13 +59,12 @@ endmodule
 
 
 ## RTL LOGIC FOR SISO Shift Register:
-![Screenshot 2024-04-25 002602](https://github.com/Suji-90/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/150884148/762b10ea-e244-45f7-b0ef-3dda843a028f)
+![325177694-66d9f2dd-7b1d-4784-8ebb-fada56207227](https://github.com/Suji-90/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/150884148/fd6bd7c6-dda0-4bea-9694-11e1ad2dcc52)
 
 
 ## TIMING DIGRAMS FOR SISO Shift Register:
-![Screenshot 2024-04-25 002647](https://github.com/Suji-90/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/150884148/d252d8ac-3c27-4a28-a811-7219e9a0de49)
 
-
+![325177705-eeead43d-48fc-45e6-81e7-5200a8a8a0b0](https://github.com/Suji-90/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/150884148/6962fd7b-1db4-4817-a55d-2c425d64fc5a)
 
 ## RESULTS:
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
